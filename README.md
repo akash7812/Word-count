@@ -37,7 +37,8 @@ print("The number of words are in the file is",num)
 ```
 
 ### OUTPUT:
-![output](./countoutput.png)
+![output](https://github.com/akash7812/Word-count/assets/146819826/67c62250-cc79-4dbb-b325-d754cddae22b)
+
 
 
 
